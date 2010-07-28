@@ -21,8 +21,8 @@
 
 - (void)applicationDidFinishLaunching:(UIApplication *)application
 {
-    STMenuFormTableViewController   *menu
-      = [STMenuFormTableViewController menu];
+    STMenuFormViewController   *menu
+      = [STMenuFormViewController menu];
     menu.title  = @"Menu";
     [menu setPlist:@"MainMenu.plist" andValue:[NSMutableDictionary dictionary]];
     

@@ -78,7 +78,7 @@
 				<key>menu</key>
 				<dict>
 					<key>class</key>
-					<string>EditTable</string>
+					<string>Edit</string>
 					<key>plist</key>
 					<string>MainMenu.plist</string>
 				</dict>
